@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muzhaffar Maruf Ibrahim </h1>
 <h3 align="center">Candidate of Master of Science in Autonomous and Intelligent System </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=derryderajat&label=Profile%20views&color=0e75b6&style=flat" alt="derryderajat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muzhaffar99&label=Profile%20views&color=0e75b6&style=flat" alt="Muzhaffar99" /> </p>
 
 
 Control Specialist and Engineer
