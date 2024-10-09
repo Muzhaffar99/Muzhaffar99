@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muzhaffar Maruf Ibrahim </h1>
 <h3 align="center">Candidate of Master of Science in Autonomous and Intelligent System </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muzhaffar99&label=Profile%20views&color=0e75b6&style=flat" alt="Muzhaffar99" /> </p>
-
 
 Control Specialist and Engineer
 -------------------------------
@@ -12,7 +10,7 @@ I'm a control enthusiast who loves to smile
 * 🌍  I'm based in Sheffield
 * ✉️  You can contact me at [mmibrahim2@sheffield.ac.uk](mailto:mmibrahim2@sheffield.ac.uk)
 * 🚀  I'm currently working on [Outlier AI](http://https://outlier.ai/)
-* 🧠  I'm learning Control Process
+* 🧠  I'm learning Control Process based on Reinforcment Learning 
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I like squid, its my animal spirit
 
@@ -24,7 +22,7 @@ src="https://img.shields.io/github/followers/viktoria2?logo=github&style=for-the
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,matlab,c,tensorflow&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,js,matlab,c,tensorflow,raspberrypi&theme=light" />
   </a>
 </p>
 
