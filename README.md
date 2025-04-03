@@ -9,7 +9,6 @@ I'm a control enthusiast who loves to smile
 
 * 🌍  I'm based in Sheffield
 * ✉️  You can contact me at [mmibrahim2@sheffield.ac.uk](mailto:mmibrahim2@sheffield.ac.uk)
-* 🚀  I'm currently working on [Outlier AI](http://https://outlier.ai/)
 * 🧠  I'm learning Control Process based on Reinforcment Learning 
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I like squid, its my animal spirit
