@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muzhaffar Maruf Ibrahim </h1>
-<h3 align="center">Candidate of Master of Science in Autonomous and Intelligent System </h3>
+<h3 align="center">Master of Science in Autonomous and Intelligent System </h3>
 
 
 Control Specialist and Engineer
