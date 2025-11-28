@@ -8,7 +8,7 @@ Control Specialist and Engineer
 I'm a control enthusiast who loves to smile
 
 * 🌍  I'm based in Sheffield
-* ✉️  You can contact me at [mmibrahim2@sheffield.ac.uk](mailto:mmibrahim2@sheffield.ac.uk)
+* ✉️  You can contact me at [muzhaffar.maruf@alumni.ui.ac.id](mailto:muzhaffar.maruf@alumni.ui.ac.id)
 * 🧠  I'm learning Control Process based on Reinforcment Learning 
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I like squid, its my animal spirit
