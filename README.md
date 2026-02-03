@@ -10,8 +10,6 @@ I'm a control enthusiast who loves to smile
 * 🌍  I'm based in Sheffield
 * ✉️  You can contact me at [muzhaffar.maruf@alumni.ui.ac.id](mailto:muzhaffar.maruf@alumni.ui.ac.id)
 * 🧠  I'm learning Control Process based on Reinforcment Learning 
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I like squid, its my animal spirit
 
 <a href="https://www.github.com/viktoria2" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/viktoria2?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
